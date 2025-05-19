@@ -45,5 +45,8 @@ Prathmesh Deepak Gondkar
 ## 📎 Downloads
 - CAD Files, Videos, and a PDF report are included in this repository.
 
+- ## 📬 Contact
+Please contact me on [LinkedIn](www.linkedin.com/in/prathmeshgondkar) if you have any questions or need collaboration.
+
 ---
 
